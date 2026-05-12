@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Книжная полка</string>
+    <string name="default_notification_channel_id">bookspace_push_default</string>
+</resources>
